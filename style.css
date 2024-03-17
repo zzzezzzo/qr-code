@@ -75,7 +75,7 @@ body {
     cursor: pointer;
 }
 
-@media(min-width: 450px) {
+@media(max-width: 450px) {
     #qrcode {
         margin: 120px auto;
         max-width: 100%;
